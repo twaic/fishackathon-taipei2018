@@ -2,15 +2,13 @@
 
 歡迎在issues部分提出您的魚客松相關漁業問題，將由諮詢夥伴與專家為您解答。
 
-## [參賽須知](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018fishackathon_guide.md)
+## [重要！參賽須知](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018fishackathon_guide.md)
 
-## 正式試題 FEATURED PROBLEM STATEMENTS
+## 正式試題 Challenge Sets
 
-### 中文譯版 (CHINESE)
-https://github.com/twaic/fishackathon-taipei2018/blob/master/2018%E9%AD%9A%E5%AE%A2%E6%9D%BE%E6%8C%91%E6%88%B0%E9%A1%8C%E7%B5%84_J%20Huang.pdf
+### [中文譯版 (CHINESE)](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018%E9%AD%9A%E5%AE%A2%E6%9D%BE%E6%8C%91%E6%88%B0%E9%A1%8C%E7%B5%84_J%20Huang.pdf)
 
-### 英文版 (ENGLISH)
-https://github.com/twaic/fishackathon-taipei2018/blob/master/FH04ChallengeSetsDec25_EN.pdf
+### [英文版 (ENGLISH)](https://github.com/twaic/fishackathon-taipei2018/blob/master/FH04ChallengeSetsDec25_EN.pdf)
 
 ## 魚客松漁業相關資訊參考（賽前講座訊息待更新）
 
