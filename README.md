@@ -10,7 +10,7 @@
 
 ### [英文版 (ENGLISH)](https://github.com/twaic/fishackathon-taipei2018/blob/master/FH04ChallengeSetsDec25_EN.pdf)
 
-### [英文版完整挑戰說明與相關資料](https://github.com/twaic/fishackathon-taipei2018/blob/master/Fishackathon%202018%20Challenge%20Statements%20435.pdf) 
+### [英文版完整挑戰說明與相關資料 (ENGLISH with dataset and challenge requirement)](https://github.com/twaic/fishackathon-taipei2018/blob/master/Fishackathon%202018%20Challenge%20Statements%20435.pdf) 
 
 ## 魚客松漁業相關資訊參考（賽前講座訊息待更新）
 
