@@ -8,13 +8,13 @@
 
 ## 正式試題 Challenge Sets
 
-### [中文譯版 (CHINESE)](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018%E9%AD%9A%E5%AE%A2%E6%9D%BE%E6%8C%91%E6%88%B0%E9%A1%8C%E7%B5%84_J%20Huang.pdf)
+### [概述-中文譯版 (2頁)](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018%E9%AD%9A%E5%AE%A2%E6%9D%BE%E6%8C%91%E6%88%B0%E9%A1%8C%E7%B5%84_J%20Huang.pdf)
 
-### [中文譯版完整挑戰說明與相關資料 (CHINESE with dataset and challenge requirement)](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018%E9%AD%9A%E5%AE%A2%E6%9D%BE%E4%B8%AD%E6%96%87%E6%8C%91%E6%88%B0%E9%A1%8C%E7%B5%84.pdf) 
+### [完整挑戰說明與相關資料-中文譯版 (19頁, CHINESE with dataset and challenge requirement)](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018%E9%AD%9A%E5%AE%A2%E6%9D%BE%E4%B8%AD%E6%96%87%E6%8C%91%E6%88%B0%E9%A1%8C%E7%B5%84.pdf) 
 
-### [英文版 (ENGLISH)](https://github.com/twaic/fishackathon-taipei2018/blob/master/FH04ChallengeSetsDec25_EN.pdf)
+### [概述-英文版 (2頁, ENGLISH)](https://github.com/twaic/fishackathon-taipei2018/blob/master/FH04ChallengeSetsDec25_EN.pdf)
 
-### [英文版完整挑戰說明與相關資料 (ENGLISH with dataset and challenge requirement)](https://github.com/twaic/fishackathon-taipei2018/blob/master/Fishackathon%202018%20Challenge%20Statements%20435.pdf) 
+### [完整挑戰說明與相關資料-英文版 (22頁, ENGLISH with dataset and challenge requirement)](https://github.com/twaic/fishackathon-taipei2018/blob/master/Fishackathon%202018%20Challenge%20Statements%20435.pdf) 
 
 ## 魚客松漁業相關資訊參考（賽前講座訊息待更新）
 
