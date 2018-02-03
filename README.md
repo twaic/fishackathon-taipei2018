@@ -2,6 +2,8 @@
 
 歡迎在issues部分提出您的魚客松相關漁業問題，將由諮詢夥伴與專家為您解答。
 
+## [2/3 開幕簡報檔](https://github.com/twaic/fishackathon-taipei2018/blob/master/Fishackathon-Opening-Slides.pdf)
+
 ## [2018年全球魚客松規則和評分標準](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018%E5%B9%B4%E5%85%A8%E7%90%83%E9%AD%9A%E5%AE%A2%E6%9D%BE%E8%A6%8F%E5%89%87%E5%92%8C%E8%A9%95%E5%88%86%E6%A8%99%E6%BA%96.pdf)
 ## [參賽須知](https://github.com/twaic/fishackathon-taipei2018/blob/master/2018fishackathon_guide.md)
 
